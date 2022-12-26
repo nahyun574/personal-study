@@ -6,4 +6,4 @@
 
 ## 📘 Baekjoon
 |rank|level|
-------------
+|gold|3|
