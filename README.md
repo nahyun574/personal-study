@@ -5,6 +5,9 @@
 ## ❄️winter vacation (2023-01-01 ~) ❄️
 
 ### 📘 Baekjoon
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=egb112)](https://solved.ac/egb112/)
+
 |date|rank|number|
 |------|---|---|
 |테스트1|테스트2|테스트3|
